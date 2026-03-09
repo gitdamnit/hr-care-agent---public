@@ -1,3 +1,5 @@
+->Main repo private while in dev<-
+
 # HR CARE
 
 **Compliance And Rights Engine**
@@ -71,11 +73,11 @@ Unlike generic chatbots, HR CARE is designed to prioritize accuracy, documentati
 
 - Change AI from 5.2 -> OpenRouter API -> routing layer -> most appropriate model.
 
-- Admin configuration panel (configure jurisdictions, escalation contacts, templates)
+- Admin config panel
 - Conversation export (PDF, Markdown)
 - Jurisdiction tagging on uploaded documents
 - HR-only document access controls (audience tagging per doc)
-- Audit log viewer for HR staff
+- Audit log viewer
 
 
 
