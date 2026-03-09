@@ -1,5 +1,3 @@
-While this application is in development I have decided to keep the main repo private.
-
 # HR CARE
 
 **Compliance And Rights Engine**
@@ -71,7 +69,7 @@ Unlike generic chatbots, HR CARE is designed to prioritize accuracy, documentati
     - Term summaries
     - Investigation notes
 
-- Create LLM routing layer with OpenRouter API.
+- Change AI from 5.2 -> OpenRouter API -> routing layer -> most appropriate model.
 
 - Admin configuration panel (configure jurisdictions, escalation contacts, templates)
 - Conversation export (PDF, Markdown)
