@@ -1,4 +1,9 @@
-->Main repo private while in dev<-
+> **This repository is retired and archived.**
+>
+> HR CARE was renamed to **HR Agent Assist** and now lives at
+> <https://github.com/gitdamnit/hr-agent-assist>.
+> Code was never published here; this repository only ever held this README.
+> It is kept for historical reference only.
 
 # HR CARE
 
